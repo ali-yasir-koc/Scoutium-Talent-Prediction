@@ -1,4 +1,4 @@
-# Scoutium-Talent-Prediction
+# DataScience_Scoutium-Talent-Prediction
 ## Description
 This project is a project that aims to predict which class (average, highlighted) players are according to the scores given to the characteristics of the players watched by the scouts. 
 ## Content
